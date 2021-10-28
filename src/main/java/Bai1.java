@@ -5,24 +5,24 @@ public class Bai1 {
 
     public List<Student> taoDanhSachSV() {
         List<Student> students = new ArrayList<Student>();
-        students.add(new Student(01223230, "Nguyễn Văn A", "dothihoa@gmail.com", 8, 8, 7, 8));
-        students.add(new Student(01223231, "Nguyễn Văn B", "dothihai@gmail.com", 3, 1, 2, 1.5));
-        students.add(new Student(01223232, "Nguyễn Văn C", "dothihuong@gmail.com", 5, 3, 9, 2.5));
-        students.add(new Student(01223233, "Nguyễn Văn D", "dothiha@gmail.com", 6, 9, 6.5, 9));
-        students.add(new Student(01223234, "Nguyễn Văn E", "dothihong@outlook.com", 2, 8, 8, 5.5));
-        students.add(new Student(01223235, "Nguyễn Văn F", "dothia@gmail.com", 4, 8, 7, 5));
-        students.add(new Student(01223236, "Nguyễn Văn N", "dothib@gmail.com", 8, 5, 2, 7));
-        students.add(new Student(01223237, "Nguyễn Văn M", "dothic@gmail.com", 2, 4, 1, 2.5));
-        students.add(new Student(01223255, "Nguyễn Văn L", "dothid@gmail.com", 9, 7, 0, 7));
-        students.add(new Student(01223266, "Nguyễn Văn K", "dothie@gmail.com", 5, 4, 6, 4));
-        students.add(new Student(01223240, "Nguyễn Văn H", "dothij@gmail.com", 1, 4, 4, 3.5));
-        students.add(new Student(01223241, "Nguyễn Văn Y", "dothik@gmail.com", 6, 9, 2, 4));
-        students.add(new Student(01223242, "Nguyễn Văn P", "dothil@gmail.com", 7, 7, 1, 7.5));
-        students.add(new Student(01223243, "Nguyễn Văn MA", "dothim@gmail.com", 5, 8, 9, 1));
-        students.add(new Student(01223244, "Nguyễn Văn Ab", "dothin@gmail.com", 7, 3, 2, 8));
-        students.add(new Student(01223245, "Nguyễn Văn AD", "dothio@gmail.com", 6, 2, 4, 3));
-        students.add(new Student(01223246, "Nguyễn Văn AN", "dothiu@gmail.com", 8, 4, 6, 7.5));
-        students.add(new Student(01223247, "Nguyễn Văn AM", "dothit@gmail.com", 6, 3, 4, 5));
+        students.add(new Student(01223230, "Nguyễn Văn A", "dothihoa@gmail.com", 7, 6, 7, 8));
+        students.add(new Student(01223231, "Nguyễn Văn B", "dothihai@gmail.com", 3, 4, 5, 1.5));
+        students.add(new Student(01223232, "Nguyễn Văn C", "dothihuong@gmail.com", 7, 8, 9, 2.5));
+        students.add(new Student(01223233, "Nguyễn Văn D", "dothiha@gmail.com", 6, 10, 6.5, 9));
+        students.add(new Student(01223234, "Nguyễn Văn E", "dothihong@outlook.com", 1, 8, 8, 5.5));
+        students.add(new Student(01223235, "Nguyễn Văn F", "dothia@gmail.com", 3, 8, 8, 5));
+        students.add(new Student(01223236, "Nguyễn Văn N", "dothib@gmail.com", 8, 5, 3, 2));
+        students.add(new Student(01223237, "Nguyễn Văn M", "dothic@gmail.com", 1, 4, 4, 2.5));
+        students.add(new Student(01223255, "Nguyễn Văn L", "dothid@gmail.com", 8, 7, 1, 7));
+        students.add(new Student(01223266, "Nguyễn Văn K", "dothie@gmail.com", 3, 6, 7, 4));
+        students.add(new Student(01223240, "Nguyễn Văn H", "dothij@gmail.com", 1, 4, 6, 3.5));
+        students.add(new Student(01223241, "Nguyễn Văn Y", "dothik@gmail.com", 6, 7, 2, 4));
+        students.add(new Student(01223242, "Nguyễn Văn P", "dothil@gmail.com", 8, 7, 2, 7.5));
+        students.add(new Student(01223243, "Nguyễn Văn MA", "dothim@gmail.com", 6, 8, 2, 1));
+        students.add(new Student(01223244, "Nguyễn Văn Ab", "dothin@gmail.com", 8, 8, 2, 8));
+        students.add(new Student(01223245, "Nguyễn Văn AD", "dothio@gmail.com", 6, 5, 4, 3));
+        students.add(new Student(01223246, "Nguyễn Văn AN", "dothiu@gmail.com", 7, 3, 6, 7.5));
+        students.add(new Student(01223247, "Nguyễn Văn AM", "dothit@gmail.com", 8, 3, 4, 5));
         return students;
     }
     // 2.Liệt kê danh sách 10 sv có điểm thi lý thuyết cao nhất
